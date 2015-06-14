@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Week 1"
+date:   2015-06-14 17:00:00
+author: ivanmartinvalle
+---
+
+Hello, Post! This is my first blog entry for CS 378: Generic Programming and the STL. Hopefully I can convince other students to take multiple Downing classes by the end of their college career!
+
+This class is the first class I have taken at UT since I dropped out of school two years ago. That makes me incredibly lucky as I can ease back into taking classes since I have already taken a Downing class before (Object Oriented Programming), all while still trying to maintain a full-time job. So far, the class structure seems to be the same as my previous experience: walk in, take an attendance quiz over the previous class's material or reading assignment, and then begin the lecture with lots of questions being asked to students. I'm a big fan of Downing's teaching method of asking students questions to try to get them to arrive at the answer themselves. Downing also has a very happy attitude during the whole lecture. I swear he makes the same jokes every year.
+
+The first week wasn't intense at all. It was simply a walk through (or review for some) of some C++ features and how the programming projects are structured. The first project isn't programming heavy, it just requires one to be meticulous, making sure to triple check project requirements before turning anything in. Since this class is a summer class, I don't feel as if C++ is being covered as much as it was in the long session. So a little outside studying of C++ would probably be required for those that are unfortunate enough to have not seen any C++ before. However, this class might be different since we are learning C++ specific things (their template system and the STL). Hopefully my knowledge of C++ and generics is good enough for me to not have to study too hard.
+
+Tip of the week: Use a git UI client for inspecting your changes before committing and pushing. I recommend [SourceTree](https://www.sourcetreeapp.com/). Viewing what is going in and out of your repo is difficult to do from the command line (or gitk, the UI client that comes with git), especially when your changes get more complicated. I still don't trust UI's to do my actual pulling and pushing though.
