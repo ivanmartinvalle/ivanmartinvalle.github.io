@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Week 2"
+date:   2015-06-21 17:00:00
+author: ivanmartinvalle
+---
+
+This week was the second full week of class, and it has started to get intense. We started covering C++ generic programming via templates and the different classes of iterators that the STL provides. Thinking in a C++ generic way is very different than most other languages. Most other languages let you contrain generic arguments to a type. In C++, templates could be described as compile-time dynamic typing. But thinking in a new way is always fun.
+
+This week we also started our second project, [another Sphere problem](http://www.spoj.com/problems/PFDEP/), but it is definitely more complex than the collatz project. This second project required the use of various STL containers. Downing did an excellent job in class walking through the tools and general algorithms we would need to solve the problem in this project. I definitely feel a bit overwhelmed by the size of the STL. I guess now would be the time to start studying. I feel like the first test will require us to have a really deep understanding of the methods on the common STL containers and their run times.
+
+If this is just the second week of class and we are already starting to cover advanced topics, I am really excited for what Downing has prepared for us. I'm hoping for a really difficult project by the end that will allow us to use generic programming and maybe some class design.
+
+Tip of the week: The STL is huge. Start studying it as early as possible. The [http://www.cplusplus.com](http://cplusplus.com) pages on [iterators](http://www.cplusplus.com/reference/iterator/) and [containers](http://www.cplusplus.com/reference/stl/) have been a godsend in this second project. I plan on spending a good amount of time reading just these two pages and practicing for the first test.
