@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Week 3"
+date:   2015-06-28 17:00:00
+author: ivanmartinvalle
+---
+
+This week we got into some more advanced C++ features. We were introduced to C++ lambda expressions, which are essentially inline function definitions. I've spent quite a bit of time using C# and Java lambdas, so I didn't struggle learning how to write and use them in C++. However, C++'s usage of explicit variable capturing helped me further understand how capturing works in other languages. I absolutely love learning about something that accidentally increases my knowledge in another area. We also went over the meaning of 'const'. 'const' is incredibly confusing, so I recommend sitting down in front of a compiler and playing with changing the ordering of 'const' and introducing pointers. It takes lots of practice to really understand this feature. 
+
+We have our first test coming up soon, and I am really nervous. In the last Downing class I took, there was both a multiple choice section and a programming section. I was definitely not a fan of the multiple choice, as most of the questions seemed to be "did you know that in C++ if it is raining on a Tuesday, the following line of code compiles?". It was very nitpicky, and I felt it wasn't a great assessment of what we learned in class. However, Downing has moved to a purely programming based test, which I look forward to. Mostly because I excel at the programming portions of his tests, but also because I expect there to be leniency on forgetting super minor syntax rules.
+
+Tip of the week: Check out [this video](https://www.youtube.com/watch?v=xnqTKD8uD64) on tips on how to write modern C++. The newest features of C++ give you a chance to make your code safer and much easier to read. The rest of the videos from [CppCon](https://www.youtube.com/user/CppCon) are also an incredible watch if you are interested in advanced C++.
