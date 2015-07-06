@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Week 4"
+date:   2015-07-05 17:00:00
+author: ivanmartinvalle
+---
+
+This week has been the most intense week of class so far. On Monday we had our first test. Difficulty-wise, it was exactly what I expected: definitely not easy, but not too hard that I got stuck on something for a long time. I much enjoyed the programming-only format of the test, as I was much more focused on the validity of my algorithms than exact syntax, which is what testing should be. I ended up getting 100% on it, which is nice.
+
+This week we also started our next project, Integer. The project is very complex, requiring having a firm understanding of operator overloads and the mathematics behind the '+' and '*' signs. This project is the first one that I am finding to be very difficult. Luckily, I have a partner this time around, whom I have worked well with in the past. He also happens to be my little brother. I feel like we have quite a bit to go, but are making some good progress.
+
+Tip of the week: Since I did well on the test, I thought I would describe my studying process. First of all, studying does not mean learn the material. It means reviewing what you should have already mastered. Every day after class, I go home and sit down in front of a compiler and play with the things we learned in class that day. Eventually, I'll have a good ol' "WHY DOESN'T THIS WORK?!" moment, which forces me to research the problem and get a better understanding. It's much easier to remember how to do something once you've done it wrong and corrected it than it is hearing about it and telling yourself that you could probably go back and do it if you wanted to.
