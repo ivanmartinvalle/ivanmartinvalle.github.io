@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Week 6"
+date:   2015-07-19 17:00:00
+author: ivanmartinvalle
+---
+
+OMG. DEQUE WAS THE HARDEST PROJECT EVER! There were SO many methods. I stayed up for SO many hours trying to get it done in time. I managed to do it, though. From reading other people's blog posts, it seemed like most people were in the same boat of scrambling to finish the project in time, which makes me feel a bit better about my standing in the class.
+
+This week we had a couple of guest speakers from the HipChat team at Atlassian. They talked about what it is like to turn something from an idea to deploying it via the scrum Agile methodology. I personally am a fan of [kanban](https://en.wikipedia.org/wiki/Kanban_(development)), since scrum in my experience has had a tendency to get a bit meeting heavy (the other day I was in a > 4 hour sprint planning meeting). I greatly enjoy having our guest speakers, as it brings me back into reality. The skills we learn in class (in Downing's classes at least) are completely transferrable when working in the industry.
+
+Downing said we were going to go over our latest project, graph, on Wednesday, but was unable to due to the guest speakers. At first I was kind of worried because the project explanations help a lot. However, it turned out that the graph project didn't require nearly as much work as the two previous projects. All I have left to do on it is do the whole turnin dance. The short project was exactly the kind of break my brain needed.
+
+Tip of the week: Container! Microservice! Buzzword! Recently TravisCI has started moving to a container based infrastructure (which honestly, I'm surpised they weren't already doing). Containers have gotten to be pretty popular recently. [Here](https://www.youtube.com/watch?v=Q5POuMHxW-0) is a good overview of Docker, a popular tool for container based development.
