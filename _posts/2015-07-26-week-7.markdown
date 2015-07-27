@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Week 7"
+date:   2015-07-26 17:00:00
+author: ivanmartinvalle
+---
+
+This week was a bit of an odd one. We only had a formal class on Monday, with learning about a special class of iterators that are adapters for non-iteration type logic. It took me quite a bit of time to "get it", but Downings explanations as we did more and more examples in class helped things along. Wednesday we had another guest speaker from Mutual Mobile who pushed for contribution to open source, which had a great impact on me. Friday the TAs gave a mini-review session for the final tomorrow (AH!), which gave me a better idea of what I needed to go home and study (iterator adapters!!!).
+
+This is it. The class end is here. This class didn't feel nearly as long as a normal long session class. And yet, the amount of information that I will walk out of this class with is astounding. I now know to write my code in a generic way, not meaning using generics or templates, but meaning making as little assumptions as possible about the code I am using. I now know, thanks to our wonderful guest speakers, that contribution to open source is very important for my career and for the community from which I have gained much useful resources. I will walk out of this class a better developer.
+
+Thanks Downing!
+
+Tip of the week: As mentioned in class by our guest speakers, find a project that you are passionate about and find any way to contribute. As an API developer, I have been keeping a close eye on the API management products that have been competing for market share recently (Amazon just released [their API gateway](http://aws.amazon.com/api-gateway/), which is a pretty huge deal). [Tyk.io](https://tyk.io) is an open source solution, and to help out in the effort, I started [this little project](https://github.com/ivanmartinvalle/tyk-sdk). It may not be much, but it feels good to give back to the open source community. You should give back!
